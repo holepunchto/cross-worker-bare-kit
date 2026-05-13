@@ -13,7 +13,7 @@
   "license": "Apache-2.0",
   "type": "commonjs",
   "peerDependencies": {
-    "react-native-bare-kit": "^0.13.0"
+    "react-native-bare-kit": "^0.14.0"
   },
   "devDependencies": {
     "lunte": "^1.4.0",
