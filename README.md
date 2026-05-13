@@ -1,6 +1,6 @@
 # cross-worker-bare-kit
 
-Cross-runtime worker abstractions for bare-kit
+Cross-runtime worker abstractions for Bare Kit.
 
 ```
 npm i cross-worker-bare-kit
