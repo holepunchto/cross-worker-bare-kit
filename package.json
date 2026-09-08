@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/holepunchto/cross-worker-bare-kit#readme",
   "peerDependencies": {
-    "react-native-bare-kit": "^0.14.0"
+    "react-native-bare-kit": "^0.15.0"
   },
   "devDependencies": {
     "lunte": "^1.4.0",
