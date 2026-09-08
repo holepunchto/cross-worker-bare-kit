@@ -1,6 +1,6 @@
 {
   "name": "cross-worker-bare-kit",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Cross-runtime worker abstractions for Bare Kit",
   "scripts": {
     "format": "prettier --write . && lunte --fix",
